@@ -18,6 +18,10 @@ The project is intentionally a **POC**, focused on exploring the backend orchest
 
 [![Watch the demo](https://img.youtube.com/vi/TIo9dhJd90Q/maxresdefault.jpg)](https://youtu.be/TIo9dhJd90Q)
 
+# Agentic-sight-images
+![Agentic_sight console image](docs/plan/media/demo_img1.png)
+![Monitor panel with escalation banner](docs/plan/media/demo_img2.png)
+
 The demo shows the complete flow:
 
 ```text
