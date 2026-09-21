@@ -16,7 +16,7 @@ The project is intentionally a **POC**, focused on exploring the backend orchest
 
 ## Demo
 
-**▶️ [Watch the demo](#)**
+   **▶️ [Watch the demo](docs/demo/demo.mp4)**
 
 *(demo video/GIF to be added)*
 
