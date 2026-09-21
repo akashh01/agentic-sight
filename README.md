@@ -66,7 +66,7 @@ The vision model is always asked an affirmative, literal question (e.g. "is the 
 
 The overall approach evolved from the limitations and observations encountered while implementing the POC. The reasoning behind the design changes, model choices, sampling strategy, escalation approach, the negation fix, and the UI can be found in:
 
-**[POC Requirements & Architecture Evolution](docs/plans/poc-requirements.md)**
+[POC Requirements & Architecture Evolution](docs/plan/poc-requirements.md)
 
 ---
 
@@ -248,4 +248,4 @@ This POC is my attempt to build that flow end-to-end and understand the trade-of
 
 The detailed **Requirements & Architecture Evolution** document explains how the system was developed, what changed between iterations, what constraints were discovered during implementation, and the reasoning behind the current design.
 
-**[Read the POC Requirements & Architecture Evolution →](docs/plans/poc-requirements.md)**
+[Read the POC Requirements & Architecture Evolution](docs/plan/poc-requirements.md)
