@@ -16,9 +16,7 @@ The project is intentionally a **POC**, focused on exploring the backend orchest
 
 ## Demo
 
-   **▶️ [Watch the demo](docs/demo/demo.mp4)**
-
-*(demo video/GIF to be added)*
+[![Watch the demo](https://img.youtube.com/vi/TIo9dhJd90Q/maxresdefault.jpg)](https://youtu.be/TIo9dhJd90Q)
 
 The demo shows the complete flow:
 
