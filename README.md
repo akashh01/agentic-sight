@@ -126,7 +126,8 @@ User
 8. The event is stored in SQLite and an alert email is sent (or dry-run logged).
 9. The result — including every processed frame, not just the confirmed one — is returned to the UI, which shows the full `RunSummary`, escalation banners, and the query optimizer's derived task.
 
-For the detailed reasoning behind each architectural iteration, see **[POC Requirements & Architecture Evolution](docs/plans/poc-requirements.md)**.
+For the detailed reasoning behind each architectural iteration, see 
+[POC Requirements & Architecture Evolution](docs/plan/poc-requirements.md)
 
 ---
 
